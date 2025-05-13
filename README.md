@@ -1,1 +1,1 @@
-# yeni-ba-layanlar-i-in-web
+# yeni başlayanlar için web
