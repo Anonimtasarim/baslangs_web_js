@@ -1,2 +1,5 @@
-<h1 style="color: red">yeni başlayanlar için web</h1> 
+<h1>yeni başlayanlar için javascript</h1> 
+<h3>projeler</h3>
+<li>1.todo list</li>
+
 
