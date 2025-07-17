@@ -1,2 +1,2 @@
-<h1>yeni başlayanlar için web</h1> 
-<buton>t</buton>
+<h1 style="color: red">yeni başlayanlar için web</h1> 
+
